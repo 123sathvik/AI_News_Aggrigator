@@ -98,5 +98,5 @@ playground/*.png
 
 app/google-service-account.json
 
-service/example.env
-service/config.py
+app/service/example.env
+app/service/config.py
